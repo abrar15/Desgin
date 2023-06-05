@@ -1,0 +1,17 @@
+.nav-item{
+    margin-right: 20px;
+}
+.nav-link , .navbar-brand{
+    color: white; font-size: 20px;
+}
+.nav-link:hover{
+    color: black;
+}
+.navbar{
+    box-shadow: 0 3px 10px  #e0c56b;
+}
+header{
+    background-image:url(../images/8c5871c3da5a9a493d01751ad59fdb70.jpg);
+    background-position: center;
+    background-size: auto ;
+}
